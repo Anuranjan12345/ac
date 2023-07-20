@@ -1,0 +1,97 @@
+.container{
+    margin: 150px;
+    width: 250px;
+    height: 250px;
+    background-color:pink;
+    border-radius: 50%;
+    position: relative;
+    border:1px solid;
+
+}
+.eye{
+    width: 170px;
+    height: 60px;
+    background-color:pink;
+    transform: translateY(4pc);
+    display: flex;
+    justify-content: space-between;
+}
+.e1{
+    width:60px;
+    height: 60px;
+    background-color:white;
+    border-radius: 50%;
+}
+.e2{
+    width: 60px;
+    height: 60px;
+    background-color:white;
+    border-radius: 50%;
+
+}
+.v1{
+    width: 30px;
+    height: 30px;
+    background-color:black;
+    border-radius: 50%;
+    transform: translateY(20px);
+}
+.v2{
+    width: 30px;
+    height: 30px;
+    background-color:black;
+    border-radius: 50%;
+    transform: translateY(20px);
+}
+.nose{
+    width: 130px;
+    height: 60px;
+    background-color:red;
+    transform: translateY(80px);
+    border-radius: 30px 30px 30px 30px; 
+    display: flex;
+    justify-content: space-between;
+}
+.n1{
+    width: 30px;
+    height: 30px;
+    background-color:black;
+    border-radius: 50%;
+    transform: translateY(13px);
+    translate:15px ;
+}
+.n2{
+    width: 30px;
+    height: 30px;
+    background-color:black;
+    border-radius: 50%;
+    transform: translateY(13px);
+    translate: -15px;;
+}
+.ears{
+   width: 220px;
+   height: 100px;
+   background-color:white;
+   transform: translateY(220px);
+   display: flex;
+   justify-content:space-between
+     
+}
+.h1{
+    width:100px;
+    height:100px;
+    background-color: pink;
+    border-radius: 60px 60px 10px 10px;
+    border:1px solid;
+
+}
+.h2{
+    width:100px;
+    height:100px;
+    background-color:pink;
+    border-radius: 60px 60px 10px 10px;
+    border:1px solid;
+
+
+    
+}
